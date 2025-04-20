@@ -1,0 +1,37 @@
+name: pizza_221
+description: A new Flutter project
+
+# Укажите минимальную версию SDK Dart
+environment:
+  sdk: ">=3.7.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  font_awesome_flutter: ^10.7.0
+  url_launcher: ^6.2.4
+  yandex_mapkit: ^3.4.0
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.10.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/icon.png"
+  android_flavor: development # если у тебя есть флейворы
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/ # Указываем, что используем изображения из этой папки
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: fonts/Roboto-Regular.ttf
+
+flutter_launcher_icons:
+  android: true
+  min_sdk_android: 21  # Обязательно, если у тебя build.gradle.kts
+  image_path: "assets/images/icon.png"  # путь к твоей иконке
