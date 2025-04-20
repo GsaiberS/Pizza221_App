@@ -5,6 +5,10 @@
 *.swp
 .DS_Store
 .atom/
+<<<<<<< HEAD
+=======
+
+>>>>>>> 66cec879e23dad468344f48e7d87185e9e7b0489
 .buildlog/
 .history
 .svn/
