@@ -1,16 +1,16 @@
-# pizza_221
+🍕 Пиццерия ИС-221
+Добро пожаловать в Пиццерию ИС-221 — ваш выбор для вкусной пиццы и быстрой доставки!
 
-A new Flutter project.
+[📲 Скачать для Android](https://github.com/GsaiberS/Pizza221_App/build/app/outputs/flutter-apkapp-release.apk)
+Чтобы заказать пиццу прямо из вашего смартфона, скачайте наше приложение:
 
-## Getting Started
+📲 Скачать для Android
 
-This project is a starting point for a Flutter application.
+Примечание: Убедитесь, что ваше устройство поддерживает установку APK-файлов. 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🌟 Особенности приложения:
+Быстрый заказ: Легко выбирайте любимые блюда.
+Каталог товаров: Широкий выбор пиццы, закусок и напитков.
+Удобная регистрация: Создайте аккаунт за несколько секунд.
+💻 Разработка
+Это приложение разработано с использованием Flutter. Если вы хотите изучить исходный код или участвовать в разработке, ознакомьтесь с файлами проекта.
